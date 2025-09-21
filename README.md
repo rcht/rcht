@@ -1,4 +1,6 @@
-## Hi there 👋
+# hi im rcht
+- experience: ex-summer intern at google
+- text editor: neovim (wowww hacker confirmed!!!)
 
 <!--
 **rcht/rcht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
